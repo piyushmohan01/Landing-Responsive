@@ -7,6 +7,7 @@ A responsive Landing-Page-Prototype
   - Sections with icons and further section-descriptions
   - Responsive design for both desktop and mobile devices
   - Animate on scroll feature
+  - Navigations buttons to sections
 
 - Libary Details:
   - AOS - Animate on scroll library
