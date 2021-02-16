@@ -291,6 +291,7 @@ p {
     margin-top: -75px; */
     height: 100%;
     width: auto;
+    z-index: -1;
 }
 
 #card-2 {
